@@ -1,0 +1,6 @@
+//dist->distribution file where store end point
+//src->source(where perform all type of operation)
+
+
+//when you ts run "tsc -w" that time "tsconfig.json" will scan all file and automatically genearate javascript code in "dist" folder
+
